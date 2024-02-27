@@ -2,7 +2,7 @@
 
   
 
-- 📌 Este projeto faz parte do meu aprendizado na Formação Agile Test Engineer na escola [E2ETreinamentos](https://e2etreinamentos.com.br/)
+- 📌 Este projeto faz parte do aprendizado na Formação Agile Test Engineer na escola [E2ETreinamentos](https://e2etreinamentos.com.br/), o objetivo foi ensinar aos alunos contruir uma base de framework para automação de testes web em Codeceptjs.
 
 - 💻 Para os testes realizados usei o site [http://teststore.automationtesting.co.uk/](http://teststore.automationtesting.co.uk/) , que é um e-commerce fictício.
 
